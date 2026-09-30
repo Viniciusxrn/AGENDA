@@ -1,0 +1,23 @@
+.x1
+{
+    color:green;
+    font-family:'Times New Roman', Times, serif;
+    font-size:40px;
+}
+.caixa
+{
+    height:300px;
+    width:300px;
+    background-color:white;
+    color:black;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    border-radius:20px;
+}
+.container
+{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}

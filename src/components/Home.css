@@ -1,0 +1,30 @@
+.x2
+{
+    color:green;
+    font-family:'Times New Roman', Times, serif;
+    font-size:50px;
+    
+}
+.nav
+{
+    height:30px;
+    width:100wv;
+    background-color:white;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    column-gap: 10px;
+    border-radius:2px;
+}
+button{
+    height:20px;
+    width:100px;
+    cursor:pointer;
+    border:2px solid black;
+}
+button:hover{
+    background-color:rgb(2, 105, 105);
+    color:yellow;
+
+}

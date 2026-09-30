@@ -1,0 +1,64 @@
+.x3
+{
+  color:green;
+  font-family:'Times New Roman', Times, serif;
+  font-size:50px;
+}
+.container
+{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+
+}
+.section
+{
+  height:750px;
+  width:500px;
+  background-color:white;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+.e1
+{
+  height:20px;
+  width:300px;
+  border-radius:5px;
+}
+.ok1
+{
+  height:20px;
+  width:100px;
+  cursor:pointer;
+  
+}
+.ok1:hover
+{
+  background-color:rgb(3, 85, 85);
+  color:rgb(234, 234, 1);
+  border:2px solid black;
+}
+.p1
+{
+  font-size:15px;
+  color:black;
+}
+.ok2
+{
+  height:20px;
+  width:100px;
+  cursor:pointer;
+}
+.ok2:hover
+{
+  background-color:rgb(13, 106, 106);
+  color:yellow;
+  border:2px solid black;
+}
+.home
+{
+  height:20px;
+  width:100vw;
+  background-color:white;
+}
